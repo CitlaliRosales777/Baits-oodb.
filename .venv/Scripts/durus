@@ -1,0 +1,7 @@
+#!C:\Users\garzi\Downloads\MoodsittoPoo\.venv\Scripts\python.exe
+"""
+$URL$
+$Id$
+"""
+import durus.__main__
+durus.__main__.main()
